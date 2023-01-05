@@ -1,0 +1,107 @@
+2023-01-05T01:46:45.411242Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.19.0, server api version : 0.20.0
+2023-01-05T01:46:45.656089Z  INFO sui::client_commands:                  Object ID                  |  Gas Value 
+2023-01-05T01:46:45.656151Z  INFO sui::client_commands: ----------------------------------------------------------------------
+2023-01-05T08:10:13.583335Z  INFO sui::client_commands:                  Object ID                  |  Gas Value 
+2023-01-05T08:10:13.585557Z  INFO sui::client_commands: ----------------------------------------------------------------------
+2023-01-05T08:10:25.573511Z  INFO sui::client_commands: Showing 2 results.
+2023-01-05T08:10:25.573601Z  INFO sui::client_commands: 0xa6b17437cbe185667712656b8b9a8e4351566d34
+2023-01-05T08:10:25.573665Z  INFO sui::client_commands: 0xbe87b1f72577fae75c6cabbcb47bbb9004eb07f2
+2023-01-05T08:39:03.542556Z  INFO sui::client_commands: Showing 2 results.
+2023-01-05T08:39:03.542661Z  INFO sui::client_commands: 0xa6b17437cbe185667712656b8b9a8e4351566d34
+2023-01-05T08:39:03.542706Z  INFO sui::client_commands: 0xbe87b1f72577fae75c6cabbcb47bbb9004eb07f2
+2023-01-05T08:41:33.930718Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2023-01-05T08:41:33.930791Z  INFO sui::client_commands: Transaction Hash: AMphwxHKsXqefKPLKiMFtPFSSs3wmG6KBCd4eKDfujum
+2023-01-05T08:41:33.930802Z  INFO sui::client_commands: Transaction Signature: AA==@IxczGk51GYvsOyQL/2i071vxzXS11yQQaAHPg7rwangT4gfkej5WqpXtkvNItmLDtS7wuf2Qpv6gnPB3+67cCw==@HZiTq1sLDU66Irg7TW1eC7jeVear2SELS7sQe4/npAA=
+2023-01-05T08:41:33.930816Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[1, 2, 3]>
+2023-01-05T08:41:33.930821Z  INFO sui::client_commands: Transaction Kind : Publish
+2023-01-05T08:41:33.930826Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2023-01-05T08:41:33.930830Z  INFO sui::client_commands: Status : Success
+2023-01-05T08:41:33.930834Z  INFO sui::client_commands: Created Objects:
+2023-01-05T08:41:33.930838Z  INFO sui::client_commands:   - ID: 0x5a4200178e3f8548492afc893ebfa3c44a504273 , Owner: Shared
+2023-01-05T08:41:33.930841Z  INFO sui::client_commands:   - ID: 0x7114da12fdb2265bdd1a8ec5c383672e380f3400 , Owner: Immutable
+2023-01-05T08:41:33.930845Z  INFO sui::client_commands:   - ID: 0xdac8cab8eadc4c56688d8a4093f6854c206ac7fa , Owner: Shared
+2023-01-05T08:41:33.930849Z  INFO sui::client_commands: Mutated Objects:
+2023-01-05T08:41:33.930853Z  INFO sui::client_commands:   - ID: 0x1681485bd4e46277e56ec169b6199eef0866aa10 , Owner: Account Address ( 0xa6b17437cbe185667712656b8b9a8e4351566d34 )
+2023-01-05T09:09:53.401633Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2023-01-05T09:09:53.401725Z  INFO sui::client_commands: Transaction Hash: A5Fg4iHwhhN8h6XcpTnk7xrhSk2f8ibsm1ijL4U4hxJo
+2023-01-05T09:09:53.401737Z  INFO sui::client_commands: Transaction Signature: AA==@0uJWic86D+tcSnFyB9zq4RJdmcB43GhX1eFoXdwVmNAY0gdr3/PXG3a5lQfRpPvRT3rYi+SwMuyy6n9yFzlYBQ==@HZiTq1sLDU66Irg7TW1eC7jeVear2SELS7sQe4/npAA=
+2023-01-05T09:09:53.401743Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[1, 2, 3]>
+2023-01-05T09:09:53.401750Z  INFO sui::client_commands: Transaction Kind : Publish
+2023-01-05T09:09:53.401758Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2023-01-05T09:09:53.401762Z  INFO sui::client_commands: Status : Success
+2023-01-05T09:09:53.401767Z  INFO sui::client_commands: Created Objects:
+2023-01-05T09:09:53.401774Z  INFO sui::client_commands:   - ID: 0x78d2a0d7b7e4de232784910c168d9fe1acdf7043 , Owner: Immutable
+2023-01-05T09:09:53.401778Z  INFO sui::client_commands:   - ID: 0xf1ae421b81137bd01be0ef0a47f938d9169ecd49 , Owner: Shared
+2023-01-05T09:09:53.401781Z  INFO sui::client_commands: Mutated Objects:
+2023-01-05T09:09:53.401786Z  INFO sui::client_commands:   - ID: 0x1681485bd4e46277e56ec169b6199eef0866aa10 , Owner: Account Address ( 0xa6b17437cbe185667712656b8b9a8e4351566d34 )
+2023-01-05T09:36:57.688552Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2023-01-05T09:36:57.688639Z  INFO sui::client_commands: Transaction Hash: 6PVPRj5CoA7WAoVtSy8m4aWAiaMDfkff3TUDqLryxDTh
+2023-01-05T09:36:57.688656Z  INFO sui::client_commands: Transaction Signature: AA==@Mc+DiqQ556R3Hlum+RxceYfVkHTdEXlxmfczzqOY5UgKcm5hsx14sP9JbRHipDAya9Mm4mbqp1dkp9SpJji2Bg==@HZiTq1sLDU66Irg7TW1eC7jeVear2SELS7sQe4/npAA=
+2023-01-05T09:36:57.688698Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 2, 3]>
+2023-01-05T09:36:57.688710Z  INFO sui::client_commands: Transaction Kind : Publish
+2023-01-05T09:36:57.688715Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2023-01-05T09:36:57.688722Z  INFO sui::client_commands: Status : Success
+2023-01-05T09:36:57.688728Z  INFO sui::client_commands: Created Objects:
+2023-01-05T09:36:57.688735Z  INFO sui::client_commands:   - ID: 0x83eedddb9d5cb508e1e8868a4951d84656be9c4f , Owner: Immutable
+2023-01-05T09:36:57.688739Z  INFO sui::client_commands:   - ID: 0xe6a132947a9ba987b148cce055fbdc85bc4b52c3 , Owner: Shared
+2023-01-05T09:36:57.688743Z  INFO sui::client_commands: Mutated Objects:
+2023-01-05T09:36:57.688748Z  INFO sui::client_commands:   - ID: 0x1681485bd4e46277e56ec169b6199eef0866aa10 , Owner: Account Address ( 0xa6b17437cbe185667712656b8b9a8e4351566d34 )
+2023-01-05T09:51:09.807859Z  INFO sui::client_commands:                  Object ID                  |  Gas Value 
+2023-01-05T09:51:09.807949Z  INFO sui::client_commands: ----------------------------------------------------------------------
+2023-01-05T09:51:09.807967Z  INFO sui::client_commands:  0x1681485bd4e46277e56ec169b6199eef0866aa10 |   9997348  
+2023-01-05T09:51:09.807976Z  INFO sui::client_commands:  0x68d2f79f19fd080f7c58d23791192df2ad1f4069 |  10000000  
+2023-01-05T09:51:09.807980Z  INFO sui::client_commands:  0xc0f51b8272cf925d7c866fe4a014c7d5001eb246 |  10000000  
+2023-01-05T09:51:09.807984Z  INFO sui::client_commands:  0xdf4f03345a7854b2fd7f6e98ff7c9852eb8c2c04 |  10000000  
+2023-01-05T09:51:09.807988Z  INFO sui::client_commands:  0xf3f9d11464a14f8fd21a4eaf9876c52f29601d27 |  10000000  
+2023-01-05T09:56:35.627049Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2023-01-05T09:56:35.627158Z  INFO sui::client_commands: Transaction Hash: DxuJ3mqp5d4w3cp9dKXhEbJVVZ8BVM6MGF7qzLnX2YFv
+2023-01-05T09:56:35.627167Z  INFO sui::client_commands: Transaction Signature: AA==@LxsJV6vhe4O4FNwIIiCYKRNTSuNR3km5gE0HC1dE7QpoS1FfJVVBUArGXZN833+tCOteF5uES5mEwhzvAc9XDQ==@HZiTq1sLDU66Irg7TW1eC7jeVear2SELS7sQe4/npAA=
+2023-01-05T09:56:35.627182Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 1, 3]>
+2023-01-05T09:56:35.627191Z  INFO sui::client_commands: Transaction Kind : Publish
+2023-01-05T09:56:35.627199Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2023-01-05T09:56:35.627206Z  INFO sui::client_commands: Status : Success
+2023-01-05T09:56:35.627213Z  INFO sui::client_commands: Created Objects:
+2023-01-05T09:56:35.627219Z  INFO sui::client_commands:   - ID: 0x50bccb46374a018bb1042041f8da872528e9f5c8 , Owner: Immutable
+2023-01-05T09:56:35.627226Z  INFO sui::client_commands:   - ID: 0x6a9575e177781a963fc918deda1505ac3d55fa66 , Owner: Shared
+2023-01-05T09:56:35.627233Z  INFO sui::client_commands:   - ID: 0xf0c57c5efed6540779caaba1b4df9c7b1251dfd4 , Owner: Shared
+2023-01-05T09:56:35.627240Z  INFO sui::client_commands: Mutated Objects:
+2023-01-05T09:56:35.627246Z  INFO sui::client_commands:   - ID: 0x1681485bd4e46277e56ec169b6199eef0866aa10 , Owner: Account Address ( 0xa6b17437cbe185667712656b8b9a8e4351566d34 )
+2023-01-05T10:01:58.264608Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2023-01-05T10:01:58.264703Z  INFO sui::client_commands: Transaction Hash: EM7yfgegJqUsSeA3nwVxPZMnvyqVNGqpU7gmxpzvmW5r
+2023-01-05T10:01:58.264716Z  INFO sui::client_commands: Transaction Signature: AA==@YAkLQpOdca/1xSA/9CFgd1BkpnhBZLfQOr91n1ACHe5+cmzPtkY/GWpubakCQY0muPJdjCvhumd7XGGsZk7LAw==@HZiTq1sLDU66Irg7TW1eC7jeVear2SELS7sQe4/npAA=
+2023-01-05T10:01:58.264722Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 1, 3]>
+2023-01-05T10:01:58.264726Z  INFO sui::client_commands: Transaction Kind : Publish
+2023-01-05T10:01:58.264733Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2023-01-05T10:01:58.264737Z  INFO sui::client_commands: Status : Success
+2023-01-05T10:01:58.264741Z  INFO sui::client_commands: Created Objects:
+2023-01-05T10:01:58.264745Z  INFO sui::client_commands:   - ID: 0xbc01f28b517b70bc88d15adf4b764554b8358efc , Owner: Shared
+2023-01-05T10:01:58.264748Z  INFO sui::client_commands:   - ID: 0xe4e38f5d7ea08e8bb90df6a8fd06a1883ac8120f , Owner: Shared
+2023-01-05T10:01:58.264752Z  INFO sui::client_commands:   - ID: 0xfbc7f9b9e7231f11653aed750cff911b6f70fcf3 , Owner: Immutable
+2023-01-05T10:01:58.264755Z  INFO sui::client_commands: Mutated Objects:
+2023-01-05T10:01:58.264759Z  INFO sui::client_commands:   - ID: 0x1681485bd4e46277e56ec169b6199eef0866aa10 , Owner: Account Address ( 0xa6b17437cbe185667712656b8b9a8e4351566d34 )
+2023-01-05T10:09:19.269409Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2023-01-05T10:09:19.269475Z  INFO sui::client_commands: Transaction Hash: 5rG6gwWK4ncuy2JrdXVbF5zMJs2hgrhpu9hKuMQmm1hM
+2023-01-05T10:09:19.269490Z  INFO sui::client_commands: Transaction Signature: AA==@f2ZL1uJYFqIClg9xEa+fXU3u8Ib8KJ3cRLc+AXmFlsz0p2iaIEetg4sQIv2+uADVyHDn9DMAP9qiEUlS19ZPAw==@HZiTq1sLDU66Irg7TW1eC7jeVear2SELS7sQe4/npAA=
+2023-01-05T10:09:19.269500Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 1, 3]>
+2023-01-05T10:09:19.269507Z  INFO sui::client_commands: Transaction Kind : Publish
+2023-01-05T10:09:19.269513Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2023-01-05T10:09:19.269551Z  INFO sui::client_commands: Status : Success
+2023-01-05T10:09:19.269559Z  INFO sui::client_commands: Created Objects:
+2023-01-05T10:09:19.269568Z  INFO sui::client_commands:   - ID: 0x5e749d17a86ed42e2aef485480e32a52f596fb3c , Owner: Shared
+2023-01-05T10:09:19.269572Z  INFO sui::client_commands:   - ID: 0xd15f0290518bbfb2ed4859728ae3f28e26892e41 , Owner: Immutable
+2023-01-05T10:09:19.269577Z  INFO sui::client_commands:   - ID: 0xde6ab82dd25f14167d2ec2e4425c1d05c5fd9336 , Owner: Shared
+2023-01-05T10:09:19.269584Z  INFO sui::client_commands: Mutated Objects:
+2023-01-05T10:09:19.269588Z  INFO sui::client_commands:   - ID: 0x1681485bd4e46277e56ec169b6199eef0866aa10 , Owner: Account Address ( 0xa6b17437cbe185667712656b8b9a8e4351566d34 )
+2023-01-05T10:09:43.534014Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2023-01-05T10:09:43.534111Z  INFO sui::client_commands: Transaction Hash: 4BxC2FNskpdP22fZFcsVQSZvt7FBWZ41H8vhkmCwVKii
+2023-01-05T10:09:43.534126Z  INFO sui::client_commands: Transaction Signature: AA==@dikFg5RUIYCX6s+KL7Vdki9VaEEiCWO/XTNLCN9t8OIHRv0kBJINHyAniAJ5iKns6eHiTOrY+liWLNiDdx/TCg==@HZiTq1sLDU66Irg7TW1eC7jeVear2SELS7sQe4/npAA=
+2023-01-05T10:09:43.534133Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 1, 3]>
+2023-01-05T10:09:43.534137Z  INFO sui::client_commands: Transaction Kind : Publish
+2023-01-05T10:09:43.534142Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2023-01-05T10:09:43.534146Z  INFO sui::client_commands: Status : Success
+2023-01-05T10:09:43.534150Z  INFO sui::client_commands: Created Objects:
+2023-01-05T10:09:43.534155Z  INFO sui::client_commands:   - ID: 0x0edb9054e1c3806d93a197f08aaacbf11bf2a5af , Owner: Shared
+2023-01-05T10:09:43.534160Z  INFO sui::client_commands:   - ID: 0xc40b0c4026acae813cc2eca79b14b7650b522187 , Owner: Immutable
+2023-01-05T10:09:43.534163Z  INFO sui::client_commands:   - ID: 0xefeb2cd3585b0d02426e678367c7a160f3cd6d10 , Owner: Shared
+2023-01-05T10:09:43.534167Z  INFO sui::client_commands: Mutated Objects:
+2023-01-05T10:09:43.534171Z  INFO sui::client_commands:   - ID: 0x1681485bd4e46277e56ec169b6199eef0866aa10 , Owner: Account Address ( 0xa6b17437cbe185667712656b8b9a8e4351566d34 )
